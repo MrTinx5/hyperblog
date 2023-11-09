@@ -6,7 +6,7 @@ body{
 }
 .container{
     width: 70%;
-    padding: 1em;
+    padding: 0;
     text-align: left;
     border: 1px solid gold;
     margin: 0 auto;
@@ -16,3 +16,15 @@ body{
     font-size: 20px;
 }
 
+.cabecera{
+    background-color: saddlebrown;
+    color: aqua;
+    margin: 0;
+    padding: 0.5em;
+    font-weight: bold;
+
+}
+
+.post{
+    padding: 1em;
+}
